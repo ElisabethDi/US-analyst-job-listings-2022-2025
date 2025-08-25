@@ -11,7 +11,7 @@ This Excel workbook provides an interactive dashboard analyzing U.S. analyst job
   - Highlights the top 20% of skills that cover ~80% of job demand.  
 
 ## Usage 
-1. [Download the workbook](./US_Analyst_Job_Listings_2022_to_2025.xlsx)
+1. [Download the workbook](https://github.com/ElisabethDi/US-analyst-job-listings-2022-2025/raw/main/US_Analyst_Job_Listings_2022_to_2025.xlsx)
 2. Open in **Excel (desktop recommended)** — some features may not work in Excel Online.  
 3. Start with the **Overview** sheet, which guides navigation to the corresponding analysis sheets.  
 
